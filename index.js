@@ -714,8 +714,8 @@ function requestWebauthnAttestation () {
         // User:
         user: {
           id: new Uint8Array(16),
-          name: 'lolica@jaczup.me',
-          displayName: 'Ptoszek Jaczupa'
+          name: 'jann.luebben@daltongymnasium-alsdorf.de',
+          displayName: 'Jann Lübben'
         },
 
         pubKeyCredParams: [{
