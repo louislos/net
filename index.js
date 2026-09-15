@@ -54,10 +54,10 @@ const VIDEOS = [
   'media/videos/ajhsdfhjasdbhfjasdfs.mp4',
   'media/videos/v09044g40000cgr968jc77u1t2krb89g.mov',
   'media/videos/intro.mp4',
-  'media/videos/szybkakaczka.mp4', // added by @dan64iel
-  'media/videos/kaczuszka.mp4', //added by @imzeme
-  'media/videos/gratulacje.mp4', //added by @GameShoot8050
-  'media/videos/puddi.mp4' //added by @MariaWasNotAvailable
+  'media/videos/szybkakaczka.mp4', 
+  'media/videos/kaczuszka.mp4', 
+  'media/videos/gratulacje.mp4', 
+  'media/videos/puddi.mp4' 
 ]
 
 const FILE_DOWNLOADS = [
@@ -68,15 +68,15 @@ const FILE_DOWNLOADS = [
   'media/images/ptakwspodniach.jpg',
   'media/images/kichajacyptoszek.jpg',
   'media/images/lubieptoszki.png',
-  'media/images/zimowyptoszek.jpeg', // added by @dan64iel
-  'media/images/zlyptok.jpeg', //added by @imzeme
-  'media/images/grubyptok.jpg', //added by @imzeme
-  'media/images/ptokzjajami.jpeg', //added by @MARECKIyt
+  'media/images/zimowyptoszek.jpeg', 
+  'media/images/zlyptok.jpeg', 
+  'media/images/grubyptok.jpg', 
+  'media/images/ptokzjajami.jpeg', 
   'media/images/ptiszka.jpg',
 ]
 
 const PHRASES = [
-  'hello my name is ptoszek, lol',
+  'hello my name is jann, lol',
   'birds are funny lalalalalalalallalala',
   'wgl co u cb bo u mn dbr',
   'knuuurrr eksplozja',
