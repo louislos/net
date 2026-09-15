@@ -276,7 +276,7 @@ function initParentWindow () {
       removeHelloMessage()
       rainbowThemeColor()
       animateUrlWithEmojis()
-      speak('To był błąd')
+      speak('hi hi hi')
     }
   })
 }
