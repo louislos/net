@@ -107,13 +107,13 @@ const FILE_DOWNLOADS = [
 
 const PHRASES = [
   'hello my name is jann, lol',
-  'birds are funny lalalalalalalallalala',
-  'wgl co u cb bo u mn dbr',
-  'knuuurrr eksplozja',
-  'hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw',
+  'microslop porn',
+  'brawlstars rule34',
+  'search for porno of google',
+  'jann luebben steht auf veronika',
   'abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz',
   'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaak',
-  'eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo eyo'
+  'veronika jann luebben leak'
 ]
 
 const LOGOUT_SITES = {
