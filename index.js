@@ -36,11 +36,11 @@ const ART = [
 ]
 
 const SEARCHES = [
-  'jshop',
-  'ptoszek',
-  'ptak',
-  'kanarek',
-  'jaczup'
+  'jann luebben',
+  'jann michel',
+  'michel gaming jann 680',
+  'jann und veronika💋',
+  'true religion shorts kaufen mit jann lövenich'
 ]
 
 const VIDEOS = [
