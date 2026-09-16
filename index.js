@@ -82,7 +82,7 @@ const VIDEOS = [
   'media/videos/clearmax.mp4',
   'media/videos/freestrona.mp4',
   'media/videos/ajhsdfhjasdbhfjasdfs.mp4',
-  'media/videos/v09044g40000cgr968jc77u1t2krb89g.mov',
+  'media/videos/1.mp4',
   'media/videos/intro.mp4',
   'media/videos/szybkakaczka.mp4', 
   'media/videos/kaczuszka.mp4', 
