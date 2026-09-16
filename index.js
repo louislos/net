@@ -84,7 +84,7 @@ const VIDEOS = [
   'media/videos/ajhsdfhjasdbhfjasdfs.mp4',
   'media/videos/1.mp4',
   'media/videos/intro.mp4',
-  'media/videos/szybkakaczka.mp4', 
+  'media/videos/2.mp4', 
   'media/videos/kaczuszka.mp4', 
   'media/videos/gratulacje.mp4', 
   'media/videos/puddi.mp4' 
