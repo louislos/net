@@ -86,7 +86,8 @@ const VIDEOS = [
   'media/videos/intro.mp4',
   'media/videos/2.mp4', 
   'media/videos/kaczuszka.mp4', 
-  'media/videos/gratulacje.mp4', 
+  'media/videos/gratulacje.mp4',
+  'media/videos/3.mp4',
   'media/videos/puddi.mp4' 
 ]
 
